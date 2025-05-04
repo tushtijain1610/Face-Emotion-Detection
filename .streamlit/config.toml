@@ -1,0 +1,11 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+primaryColor = "#5e35b1"
+backgroundColor = "#f5f7ff"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#222222"
+font = "sans serif"
